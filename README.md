@@ -1,4 +1,5 @@
-# Ex. No:1b 			Study of Client Server Chat Applications
+V. POOJAA SREE - B.E(CSE) [212223040147]
+# Ex. No:1b 			##Study of Client Server Chat Applications
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
@@ -64,7 +65,6 @@ User authentication mechanisms are essential to ensure secure and authorized acc
 •	As the number of users grows, the chat application must be scalable. This involves optimizing server-side architecture to handle increasing loads efficiently.
 4.	Persistence:
 •	Some chat applications implement message persistence, allowing users to retrieve past messages. This may involve using databases to store and retrieve chat history.
-
 5.	Notification Systems:
 •	Implementing real-time notifications to inform users of new messages, user presence changes, or other relevant events.
 
@@ -76,5 +76,5 @@ Client-server chat applications are foundational to real-time communication over
 
 ## Result:
 
-Thus the study on Client Server Chat Applications has been performed
+Thus the study on Client Server Chat Applications has been performed.
 
